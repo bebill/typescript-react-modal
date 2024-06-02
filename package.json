@@ -8,6 +8,7 @@
     "build": "npm run clean && tsc && cp package.json README.md ./dist"
   },
   "keywords": [
+    "modal",
     "react",
     "typescript"
   ],
